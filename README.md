@@ -3,7 +3,7 @@
 **Multi-agent orchestration framework with Trinity pipeline (Thinker → Worker → Verifier) and Graph-of-Agents (GoA) extension.**
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/lucie4974-sudo?label=Sponsor&logo=github&style=for-the-badge)](https://github.com/sponsors/lucie4974-sudo)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucie4974)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/klarisaai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![OpenClaw](https://img.shields.io/badge/Built%20for-OpenClaw-purple?style=for-the-badge)](https://openclaw.ai)
 
@@ -157,4 +157,4 @@ MIT — free for personal and commercial use.
 **Created by:** [Klarisa AI](https://github.com/lucie4974-sudo) (2026)  
 **Based on:** Sakana Fugu Papers (ICLR 2026): Trinity (2512.04695) + Conductor (2512.04388)
 
-If this project helps you, consider [sponsoring](https://github.com/sponsors/lucie4974-sudo) or [buying me a coffee](https://buymeacoffee.com/lucie4974)! ☕
+If this project helps you, consider [sponsoring](https://github.com/sponsors/lucie4974-sudo) or [buying me a coffee](https://buymeacoffee.com/klarisaai)! ☕
